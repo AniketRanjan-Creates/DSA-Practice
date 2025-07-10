@@ -12,20 +12,17 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-         vector<int> result;
-        preorder(root, result);
+        if(root==NULL) return 0;
         int count = 0;
-        for(int i = 0; i<result.size(); i++) {
-            count++;
-        }
+        preorder(root, count);
         return count;
                
     }
 private: 
-    void preorder(TreeNode* node, vector<int>&result) {
+    void preorder(TreeNode* node, int& count) {
         if(node==nullptr) return;
-        result.push_back(node->val);
-        preorder(node->left, result);
-        preorder(node->right, result);
+        count++;
+        preorder(node->left, count);
+        preorder(node->right, count);
     }
 };
