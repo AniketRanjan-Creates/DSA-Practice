@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -70,5 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
