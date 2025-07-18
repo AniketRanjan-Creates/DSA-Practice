@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
