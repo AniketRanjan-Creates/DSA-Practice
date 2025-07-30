@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
