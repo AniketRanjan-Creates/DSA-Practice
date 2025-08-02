@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
