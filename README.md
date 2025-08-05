@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0056-merge-intervals) |
