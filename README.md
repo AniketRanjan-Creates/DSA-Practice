@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0031-next-permutation) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0058-length-of-last-word) |
 ## Backtracking
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
