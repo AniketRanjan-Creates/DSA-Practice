@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
