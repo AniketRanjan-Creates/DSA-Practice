@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
