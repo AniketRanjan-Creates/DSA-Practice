@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
