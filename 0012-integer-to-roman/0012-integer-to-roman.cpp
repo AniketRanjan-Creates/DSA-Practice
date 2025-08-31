@@ -7,10 +7,10 @@ public:
 
         string result = "";
 
-        for (const auto& pair: values) {
-            while (num>=pair.first) {
-                result = result + pair.second;
-                num = num - pair.first;
+        for ( auto& it : values) {
+            while (num>=it.first) {
+                result = result + it.second;
+                num = num - it.first;
             }
         }
         return result;
