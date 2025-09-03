@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 ## Simulation
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0234-palindrome-linked-list) |
