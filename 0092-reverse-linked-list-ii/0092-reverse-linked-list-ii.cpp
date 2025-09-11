@@ -42,9 +42,7 @@ public:
         prev_left->next = back;
         left_node->next = right_next;
 
-        head = dummy->next;
-        delete dummy;
-        return head;
+        return dummy->next;;
 
         
     }
