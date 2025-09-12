@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
