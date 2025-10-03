@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/0189-rotate-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/AniketRanjan-Creates/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
